@@ -1,0 +1,7 @@
+MIDlet-1: Nature Park, /toy_icon.png, com.nokia.mid.appl.np.np
+MIDlet-Name: Nature Park
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.12
+Nokia-MIDlet-Category: Game
+MIDlet-Jar-Size: 61534
+MIDlet-Jar-URL: np_en_zh-CN_zh-TW_id-ID_hi-IN.jar

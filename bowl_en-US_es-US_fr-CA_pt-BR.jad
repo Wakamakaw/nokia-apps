@@ -1,0 +1,7 @@
+MIDlet-1: Bowling, /Image/Icon.png, com.nokia.mid.appl.bowl.Bowling
+MIDlet-Name: Bowling
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.8
+Nokia-MIDlet-Category: Game
+MIDlet-Jar-Size: 33103
+MIDlet-Jar-URL: bowl_en-US_es-US_fr-CA_pt-BR.jar

@@ -1,0 +1,13 @@
+MIDlet-1: Backgammon II,icon.png,com.nokia.mid.appl.bkg2.Nokia_isa_118_120_135_139_16c_128x128_3sk_nokiaui
+MIDlet-Name: Backgammon II
+MIDlet-Version: 2.43
+MIDlet-Vendor: Nokia
+MIDlet-Description: Backgammon board game
+Nokia-MIDlet-Category: Game
+MIDlet-Icon: icon.png
+MIDlet-Data-Size: 0
+MIDlet-Push-1: sms://:56300, com.nokia.mid.appl.bkg2.Nokia_isa_118_120_135_139_16c_128x128_3sk_nokiaui, *
+Default-Port: 56300
+MIDlet-Permissions: javax.wireless.messaging.sms.send, javax.wireless.messaging.sms.receive, javax.microedition.io.PushRegistry
+MIDlet-Jar-Size: 96831
+MIDlet-Jar-URL: bkg2_en-US_es-US_fr-CA_pt-BR.jar

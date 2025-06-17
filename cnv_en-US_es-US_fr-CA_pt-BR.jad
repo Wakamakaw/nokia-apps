@@ -1,0 +1,11 @@
+MIDlet-1: Converter II, /icons/App.png, Lifecycle
+MIDlet-Name: Converter II
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.17
+Nokia-Platform: *
+Nokia-MIDlet-Name-en-US: Converter II
+Nokia-MIDlet-Name-es-US: Convertidor II
+Nokia-MIDlet-Name-fr-CA: Convertisseur II
+Nokia-MIDlet-Name-pt-BR: Conversor II
+MIDlet-Jar-Size: 48216
+MIDlet-Jar-URL: cnv_en-US_es-US_fr-CA_pt-BR.jar

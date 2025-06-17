@@ -1,0 +1,8 @@
+MIDlet-1: Beach Rally II, /icon.png, com.nokia.mid.appl.brbt.GameMIDlet
+MIDlet-Name: Beach Rally II
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.12
+Nokia-MIDlet-Category: Game
+Sumea-PasswordQuery-On: 0
+MIDlet-Jar-Size: 80697
+MIDlet-Jar-URL: brbt_en-US_es-US_fr-CA_pt-BR.jar

@@ -1,0 +1,8 @@
+MIDlet-1: Beach Rally, /icon.png, com.nokia.mid.appl.raci.GameMIDlet
+MIDlet-Name: Beach Rally
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.5
+Nokia-MIDlet-Category: Game
+
+MIDlet-Jar-Size: 59739
+MIDlet-Jar-URL: raci_en-US_es-US_fr-CA_pt-BR.jar

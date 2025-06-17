@@ -1,0 +1,8 @@
+MIDlet-Jar-URL: MobileGallery221.jar
+MIDlet-Jar-Size: 114746
+MIDlet-Name: Mobile Gallery
+MIDlet-Vendor: Nokia
+MIDlet-Version: 2.1
+MIDlet-1: Mobile Gallery, /n, MGMidlet
+MIDlet-Permissions: javax.microedition.io.Connector.http, javax.microedition.io.Connector.sms, javax.wireless.messaging.sms.receive,javax.wireless.messaging.sms.send
+

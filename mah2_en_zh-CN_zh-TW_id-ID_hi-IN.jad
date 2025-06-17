@@ -1,0 +1,8 @@
+MIDlet-1: Space Mahjong, /icon.png, MJ
+MIDlet-Name: Space Mahjong
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.4
+Nokia-MIDlet-Category: Game
+MIDlet-Data-Size: 2048
+MIDlet-Jar-Size: 108582
+MIDlet-Jar-URL: mah2_en_zh-CN_zh-TW_id-ID_hi-IN.jar

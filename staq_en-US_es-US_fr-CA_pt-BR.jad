@@ -1,0 +1,7 @@
+MIDlet-1: Puzzle, /icon.png, com.nokia.mid.appl.staq.GameMIDlet
+MIDlet-Name: Puzzle
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.0
+Nokia-MIDlet-Category: Game
+MIDlet-Jar-Size: 44570
+MIDlet-Jar-URL: staq_en-US_es-US_fr-CA_pt-BR.jar
